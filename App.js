@@ -15,6 +15,7 @@ export default function App() {
                 <NavBar/>
                 <MainTitle/>
                 <Button />
+                <Text>Probando --set-upstream</Text>
                 <StatusBar hidden/>
             </LinearGradient>
         </View>
